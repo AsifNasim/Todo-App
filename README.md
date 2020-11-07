@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Todo-App is live on https://asiftodoapp.netlify.app/
 
+
+
+### To Start Project in Development Mode 
+
+### First Clone the above repository and type the below given command.
+
+### npx create-react-app
+
 ## Commands used to install Font awesome:
 
 $ npm i --save @fortawesome/fontawesome-svg-core
@@ -14,7 +22,6 @@ $ npm i --save @fortawesome/free-solid-svg-icons
 
 $ npm i --save @fortawesome/react-fontawesome
 
-### To Start Project in Development Mode 
 ### `npm start`
 
 Runs the app in the development mode.\
